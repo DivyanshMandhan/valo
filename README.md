@@ -1,16 +1,20 @@
 # valo
 
-A new Flutter project.
+Valorant guide with valorant API.
+![valo-guide](https://user-images.githubusercontent.com/57166270/180603593-e8554f66-7e8b-4305-9c0b-40048ba7b46f.png)
 
-## Getting Started
+## Screenshots
+### Agents Page
+ALL                        | DUELIST                   |  SENTINEL                 | INITIATOR                 |  CONTROLLER             
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![image](https://github.com/DivyanshMandhan/valo/blob/master/ss/Screenshot_1658575426.png) | ![image](https://github.com/DivyanshMandhan/valo/blob/master/ss/Screenshot_1658575478.png) | ![image](https://github.com/DivyanshMandhan/valo/blob/master/ss/Screenshot_1658575482.png) |![image](https://github.com/DivyanshMandhan/valo/blob/master/ss/Screenshot_1658575487.png) | ![image](https://github.com/DivyanshMandhan/valo/blob/master/ss/Screenshot_1658575490.png) 
 
-This project is a starting point for a Flutter application.
+### Guns Page
+Guns card                  | Guns Info             
+:-------------------------:|:-------------------------:
+![image](https://github.com/DivyanshMandhan/valo/blob/master/ss/Screenshot_1658575448.png) |![image](https://github.com/DivyanshMandhan/valo/blob/master/ss/Screenshot_1658575457.png) 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Other
+Maps                       | Ranks             
+:-------------------------:|:-------------------------:
+![image](https://github.com/DivyanshMandhan/valo/blob/master/ss/Screenshot_1658575435.png) |![image](https://github.com/DivyanshMandhan/valo/blob/master/ss/Screenshot_1658575464.png) 
